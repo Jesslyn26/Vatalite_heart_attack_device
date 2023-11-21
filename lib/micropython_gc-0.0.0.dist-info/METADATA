@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: micropython-gc
-Version: 0.0.0
-Summary: Dummy gc module for MicroPython
-Home-page: https://github.com/micropython/micropython-lib
-Author: MicroPython Developers
-Author-email: micro-python@googlegroups.com
-License: MIT
-

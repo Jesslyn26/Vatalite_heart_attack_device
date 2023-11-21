@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: micropython-errno
-Version: 0.1.5.1
-Summary: errno module for MicroPython
-Home-page: https://github.com/micropython/micropython/issues/405
-Author: MicroPython Developers
-Author-email: micro-python@googlegroups.com
-License: MIT
-
