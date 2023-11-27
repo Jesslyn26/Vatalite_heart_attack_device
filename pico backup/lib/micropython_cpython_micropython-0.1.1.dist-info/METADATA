@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: micropython-cpython-micropython
+Version: 0.1.1
+Summary: MicroPython module micropython ported to CPython
+Home-page: https://github.com/pfalcon/micropython-lib
+Author: Paul Sokolovsky
+Author-email: micropython-lib@googlegroups.com
+Maintainer: Paul Sokolovsky
+Maintainer-email: micropython-lib@googlegroups.com
+License: Python
+
+This is MicroPython compatibility module, allowing applications using
+MicroPython-specific features to run on CPython.

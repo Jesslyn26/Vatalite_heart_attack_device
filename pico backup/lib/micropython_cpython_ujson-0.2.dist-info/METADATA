@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: micropython-cpython-ujson
+Version: 0.2
+Summary: MicroPython module ujson ported to CPython
+Home-page: https://github.com/pfalcon/micropython-lib
+Author: Paul Sokolovsky
+Author-email: micropython-lib@googlegroups.com
+Maintainer: Paul Sokolovsky
+Maintainer-email: micropython-lib@googlegroups.com
+License: Python
+Requires-Dist: micropython-cpython-micropython
+
+This is MicroPython compatibility module, allowing applications using
+MicroPython-specific features to run on CPython.
