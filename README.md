@@ -65,3 +65,5 @@ Pico Backup Folder:
 - concantinated_dataset = concantinating the all of the dataset as one
 - Training_heart.csv = cleaned and labelled the dataset to detect heart attack
 - Validate_heart.csv = use to evaluate the model with the Validate_heart dataset
+- Training_heart_monitor_DNN_kernel, Training_heart_monitor_MLP,Training_heart_monitor_OCNNN, Training_heart_monitor_SVM_GB, Training_heart_monitor_svm = all different machine learning model that is made to compare which model perform the best (Deep Neural Network kernel, MultiLayer Perceptron, Object-based Convolutional Neural Network, Support Vector Machine and Gradient Boost, and Support vector Machine)
+- ML models = the models that is saved as a file so it can be use to predict heart attack
