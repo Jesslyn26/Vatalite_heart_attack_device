@@ -7,7 +7,7 @@ from the device.
 ![WhatsApp Image 2023-06-24 at 22 49 18](https://github.com/Jesslyn26/Vatalite_heart_attack_device/assets/79516995/fe21b966-ad48-4279-a475-6f7bcbfd97b6)
 
 
-## Project Objective:
+## Project Objectives
 
 - Develop a wearable device that can record real time heart rate and oxygen level
 - Alert user when the device is detecting a potential heart attack
@@ -44,7 +44,7 @@ P.S. The machine learning was not implemented in the microcontroller due to lack
 
 
 ## Project Codes
-### Building Device and connecting to the 
+### Building Device and connecting to Microsoft Azure 
 Pico Backup Folder:
 - RPi, lib = necesarry libraires to run the program
 - GPIO = responsible for the input and output of the hardware, breadboard, and power
